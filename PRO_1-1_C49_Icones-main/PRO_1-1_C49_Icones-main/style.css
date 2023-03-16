@@ -1,0 +1,33 @@
+h1{
+    color :dodgerblue;
+    margin-left: 70px;
+    font-size: 40px;
+}
+/*
+*{
+    border: solid;
+}*/
+.header{
+    background-color:khaki;
+    display: flex;
+    justify-content: space-between;
+}
+.jogos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #B0E0E6;
+}
+h2, p{
+    text-align: center;
+    background-color: #F5FFFA;
+}
+body{
+  /*  background-color: rgb(128,128,128);*/
+  background-color: #808080;
+}
